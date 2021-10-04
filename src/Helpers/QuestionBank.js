@@ -1,0 +1,60 @@
+import '../App.css';
+
+export const Questions = [
+    {
+        prompt: "What is 10+5*5 ?",
+        A: "30",
+        B: "40",
+        C: "35",
+        D: "75",
+        answer: "C",
+    },
+    {
+        prompt: "Which star is defined as a Nancy planet ?",
+        A: "Earth",
+        B: "Pluto",
+        C: "Saturn",
+        D: "Jupiter",
+        answer: "B",
+    },
+    {
+        prompt: "What animal can sleep standing up ?",
+        A: "Lion",
+        B: "Cow",
+        C: "Kangaroo",
+        D: "Horse",
+        answer: "D",
+    },
+    {
+        prompt: "In whose name there are an airport ?",
+        A: "Cristiano Ronaldo",
+        B: "Diego Maradona",
+        C: "Raoul Gonzalez",
+        D: "Iker Casillas",
+        answer: "A",
+    },
+    {
+        prompt: "What won't spoiled if you take care of it ?",
+        A: "Cucumber",
+        B: "Peanut",
+        C: "Honey",
+        D: "Pineapple",
+        answer: "C",
+    },
+    {
+        prompt: "What is the capital of Italy ?",
+        A: "Milan",
+        B: "Rome",
+        C: "Venice",
+        D: "Naples",
+        answer: "B",
+    },
+    {
+        prompt: "Israel's first president ?",
+        A: "Ephraim Katzir",
+        B: "Zalman Shazar",
+        C: "Yitzhak Ben-Zvi",
+        D: "Haim Weizmann",
+        answer: "D",
+    },
+]
