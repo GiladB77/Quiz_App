@@ -26,8 +26,8 @@ function Quiz() {
 
     return (
         <div className="Quiz">
-            <h1>{Questions[currQuestion].prompt}</h1>
             <div className="options">
+            <h1>{Questions[currQuestion].prompt}</h1>
                 <button className="clickOn" onClick={() => setOptionChosen("A")}>
                     {Questions[currQuestion].A}
                 </button>
