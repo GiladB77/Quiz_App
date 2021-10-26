@@ -8,7 +8,7 @@ const {setGameState} = useContext(QuizContext)
 
     return (
         <div className="Menu">
-            <button onClick={()=>{setGameState("quiz");}}>Start Quiz</button>
+            <button onClick={()=>{setGameState("quiz");}}>Start Quiz!</button>
         </div>
     )
 }

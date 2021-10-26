@@ -2,7 +2,7 @@ import '../App.css';
 
 export const Questions = [
     {
-        prompt: "What is 10+5*5 ?",
+        prompt: "What is 10+5*5?",
         A: "30",
         B: "40",
         C: "35",
@@ -10,7 +10,7 @@ export const Questions = [
         answer: "C",
     },
     {
-        prompt: "Which star is defined as a Nancy planet ?",
+        prompt: "Which star is defined as a Nancy planet?",
         A: "Earth",
         B: "Pluto",
         C: "Saturn",
@@ -18,7 +18,7 @@ export const Questions = [
         answer: "B",
     },
     {
-        prompt: "What animal can sleep standing up ?",
+        prompt: "What animal can sleep standing up?",
         A: "Lion",
         B: "Cow",
         C: "Kangaroo",
@@ -26,7 +26,7 @@ export const Questions = [
         answer: "D",
     },
     {
-        prompt: "In whose name there are an airport ?",
+        prompt: "In whose name there is an airport?",
         A: "Cristiano Ronaldo",
         B: "Diego Maradona",
         C: "Raoul Gonzalez",
@@ -34,7 +34,7 @@ export const Questions = [
         answer: "A",
     },
     {
-        prompt: "What won't spoiled if you take care of it ?",
+        prompt: "What doesn't spoiled if you take care of it?        ",
         A: "Cucumber",
         B: "Peanut",
         C: "Honey",
@@ -42,7 +42,7 @@ export const Questions = [
         answer: "C",
     },
     {
-        prompt: "What is the capital of Italy ?",
+        prompt: "What is the capital of Italy?",
         A: "Milan",
         B: "Rome",
         C: "Venice",
@@ -50,7 +50,7 @@ export const Questions = [
         answer: "B",
     },
     {
-        prompt: "Israel's first president ?",
+        prompt: "Israel's first president?",
         A: "Ephraim Katzir",
         B: "Zalman Shazar",
         C: "Yitzhak Ben-Zvi",
